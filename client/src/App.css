@@ -151,7 +151,7 @@ img {
 .alert {
   padding: 0.8rem;
   margin: 1rem 0;
-  opacity: 0.9;
+  opacity: 1;
   background: var(--light-color);
   color: #333;
 }
@@ -203,6 +203,16 @@ img {
   background: #fff;
   color: #333;
   border: #ccc solid 1px;
+}
+
+.btn-danger,
+.bg-danger,
+.badge-danger,
+.alert-none {
+  opacity: 0;
+  transition: all 750ms linear;
+  background: var(--danger-color);
+  color: #fff;
 }
 
 .btn:hover {

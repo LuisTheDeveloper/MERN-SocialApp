@@ -24,3 +24,5 @@ export const Landing = () => {
     </section>
   );
 };
+
+export default Landing;

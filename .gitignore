@@ -1,1 +1,9 @@
 node_modules/
+
+package-lock.json
+.gitignore
+package-lock.json
+client/.gitignore
+package-lock.json
+package-lock.json
+package-lock.json

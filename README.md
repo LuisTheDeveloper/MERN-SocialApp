@@ -1,5 +1,5 @@
 # MERN-SocialApp
-Project build upon udemy training.
+Project build upon udemy training: [MERN Full Stack Web Development with React, Redux and NodeJS](https://www.udemy.com/course/mern-stack-front-to-back/)
 
 Online platform to register skilled developers and connect them, like a social platform for software engineers.
 Full stack development.

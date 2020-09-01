@@ -7,12 +7,12 @@ Technologies applied:
 1. NodeJS for backend development. 
 NodeJS installed includes the following dependencies packages: 
 - **express** for web server framework; 
-- **axios** for a promise based http client requests;
+- **axios** for a promise based http client requests. Replaced the deprecated **request** package.
 - **express-validator** for data valiation when making post requests;
 - **bcryptjs** to encript and store passwords in a database;
 - **jsonwebtoken** to use jwt to pass a token for user validation;
 - **mongoose** to ease the interaction with MongoDB;
-- **request** for http calls - this package has been fully deprecated, for more info: [here](https://github.com/request/request/issues/3142)
+- **request** for http calls - replaced by **axios** because this package has been fully deprecated, for more info: [here](https://github.com/request/request/issues/3142)
 - **config** for global variables management;
 - **gravatar** for profile avatars;
 

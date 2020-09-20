@@ -31,4 +31,4 @@ React dependencies packages installed:
 [MongoDB Atlas](https://www.mongodb.com/cloud)
 
 **Landing Page:**
-![Imgur](https://imgur.com/zIsQlSo.https)
+![Imgur](https://imgur.com/zIsQlSo.png)

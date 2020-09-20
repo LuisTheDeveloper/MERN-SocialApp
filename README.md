@@ -29,3 +29,6 @@ React dependencies packages installed:
 
 3. Database to store users, profiles and posts: MongoDB in the cloud
 [MongoDB Atlas](https://www.mongodb.com/cloud)
+
+**Landing Page:**
+![Imgur](https://imgur.com/zIsQlSo.https)
